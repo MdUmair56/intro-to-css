@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(232, 232, 145);
+}
+h1{
+color: red;
+background-color: aquamarine;
+}
+.intro {
+    color: black;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+#first-list-item{
+    color: brown;
+    background-color: aliceblue;
+}
